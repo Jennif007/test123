@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="a" label="A" language="en" table="x_272416_honey_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>a</element>
+            <help/>
+            <hint/>
+            <label>A</label>
+            <language>en</language>
+            <name>x_272416_honey_test</name>
+            <plural>As</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-11 11:27:59</sys_created_on>
+            <sys_id>c8a0ccd2db0123004ae6f11fbf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>A</sys_name>
+            <sys_package display_value="Honey" source="x_272416_honey">26affb42db0123004ae6f11fbf9619c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Honey">26affb42db0123004ae6f11fbf9619c4</sys_scope>
+            <sys_update_name>sys_documentation_x_272416_honey_test_a_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-11 11:27:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
